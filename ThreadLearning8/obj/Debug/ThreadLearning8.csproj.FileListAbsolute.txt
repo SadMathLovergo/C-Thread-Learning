@@ -1,0 +1,6 @@
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning8\bin\Debug\ThreadLearning8.exe.config
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning8\bin\Debug\ThreadLearning8.exe
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning8\bin\Debug\ThreadLearning8.pdb
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning8\obj\Debug\ThreadLearning8.csprojResolveAssemblyReference.cache
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning8\obj\Debug\ThreadLearning8.exe
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning8\obj\Debug\ThreadLearning8.pdb

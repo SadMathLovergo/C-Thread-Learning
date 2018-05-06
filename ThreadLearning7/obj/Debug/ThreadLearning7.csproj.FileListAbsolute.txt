@@ -1,0 +1,12 @@
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning7\bin\Debug\ThreadLearning7.exe.config
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning7\bin\Debug\ThreadLearning7.exe
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning7\bin\Debug\ThreadLearning7.pdb
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning7\obj\Debug\ThreadLearning7.csprojResolveAssemblyReference.cache
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning7\obj\Debug\ThreadLearning7.exe
+E:\3计算机学习资料\2C#\ThreadLearning\ThreadLearning7\obj\Debug\ThreadLearning7.pdb
+E:\3_计算机学习资料\2_C#\ThreadLearning\ThreadLearning7\bin\Debug\ThreadLearning7.exe.config
+E:\3_计算机学习资料\2_C#\ThreadLearning\ThreadLearning7\bin\Debug\ThreadLearning7.exe
+E:\3_计算机学习资料\2_C#\ThreadLearning\ThreadLearning7\bin\Debug\ThreadLearning7.pdb
+E:\3_计算机学习资料\2_C#\ThreadLearning\ThreadLearning7\obj\Debug\ThreadLearning7.csprojResolveAssemblyReference.cache
+E:\3_计算机学习资料\2_C#\ThreadLearning\ThreadLearning7\obj\Debug\ThreadLearning7.exe
+E:\3_计算机学习资料\2_C#\ThreadLearning\ThreadLearning7\obj\Debug\ThreadLearning7.pdb

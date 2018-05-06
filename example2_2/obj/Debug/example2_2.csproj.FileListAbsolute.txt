@@ -1,0 +1,6 @@
+E:\3_计算机学习资料\2_C#\ThreadLearning\example2_2\bin\Debug\example2_2.exe.config
+E:\3_计算机学习资料\2_C#\ThreadLearning\example2_2\bin\Debug\example2_2.exe
+E:\3_计算机学习资料\2_C#\ThreadLearning\example2_2\bin\Debug\example2_2.pdb
+E:\3_计算机学习资料\2_C#\ThreadLearning\example2_2\obj\Debug\example2_2.csprojResolveAssemblyReference.cache
+E:\3_计算机学习资料\2_C#\ThreadLearning\example2_2\obj\Debug\example2_2.exe
+E:\3_计算机学习资料\2_C#\ThreadLearning\example2_2\obj\Debug\example2_2.pdb
